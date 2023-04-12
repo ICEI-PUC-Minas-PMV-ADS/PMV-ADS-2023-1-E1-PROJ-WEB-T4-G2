@@ -2,25 +2,13 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Jade Andrade, de 19 anos, é uma estudante de Publicidade e Propaganda que trabalha como Designer Gráfico nas horas vagas. Ela é apaixonada pela arte e busca inspirar outras jovens mulheres a perseguir seus sonhos, enquanto procura oportunidades para aprimorar suas habilidades. Jade tem como hobbies dançar, tocar violão, escrever poesia e fotografar. No entanto, ela enfrenta frustrações por nunca ter tido a oportunidade de fazer aulas de dança formalmente, ser pressionada a encontrar um emprego estável e não ter tido sorte em relacionamentos. Jade cresceu em uma família modesta em uma cidade pequena. Seus aplicativos de uso regular são o Instagram, Twitter, TikTok, Tinder e LinkedIn.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Gilberto Sousa, de 26 anos, é um Desenvolvedor Pleno que trabalha em uma empresa de tecnologia em São Paulo. Ele busca progressão de carreira e procura aliviar o estresse do trabalho saindo com os amigos e mantendo uma vida saudável. No entanto, ele enfrenta frustrações devido à sobrecarga no trabalho, falta de tempo para seus hobbies e isolamento social. Gilberto é apaixonado por jogos de computador, pratica esportes, faz trilhas e gosta de sair com os amigos. Seus aplicativos de uso regular são o Discord, LinkedIn, Instagram e Reddit.
 
 ## Histórias de Usuários
 
@@ -28,8 +16,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Jade Andrade        | Visualizar os restaurantes mais    | estar por dentro dos restaurantes em   |
+|                    | relevantes do momento              | alta                                   |
+|--------------------|------------------------------------|----------------------------------------|
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

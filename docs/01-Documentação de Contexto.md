@@ -1,46 +1,43 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O uso da tecnologia no Séc. XXI cada vez mais tem diminuído a distância na comunicação entre indivíduos, isso se dá segundo Silveira et. al. (2006), pois o uso da tecnologia permite a integração entre diversas áreas, o intercâmbio de informações, a propagação de informação e por fim, o conhecimento. Celulares, tablets e computadores têm aumentado de forma significativa as interações entre usuários, tudo por advento da internet, com isso é necessário filtrar informações com o intuito de maximizar a experiência dos navegantes web. Segundo a Confederação Nacional de Dirigentes Lojistas (CNDL) divulgada em setembro de 2021, 91% dos consumidores conectados realizaram alguma compra em lojas online entre 2020 e 2021. Desse total, 87% utilizaram o smartphone para concluir o negócio. 
+
+Uma parcela que é bastante afetada pela inadequada filtragem de informações, são os consumidores gastronômicos, que enfrentam dificuldades na busca por recomendações. A estratégia de reviews do Google por exemplo permite que usuários da ferramenta de busca veja informações relevantes acerca da empresa ou estabelecimento que estes possuem interesse, visando assim facilitar a escolha a partir da vivência de outros usuários da plataforma.
+
+Apesar da inflação de insumos, a estimativa do setor gastronômico é de um crescimento de 20% no faturamento frente ao último carnaval (2021), é o que afirma a conselheira da Associação Brasileira de Bares e Restaurantes (Abrasel-MG). Nesse panorama é importante frisar o uso consciente das informações obtidas via experiência empírica, e como estas estimulam ou abatem futuras experiências de terceiros. 
+
+É perceptível o alto número de restaurantes sendo inaugurados, sendo tanto de culinária tradicional como especializadas para certos nichos, grupos da sociedade. Essas mesmas empresas buscam se diversificar realizando propagandas inovadoras, através de posts em redes sociais e outras ferramentas de marketing, mas ficam à mercê de um algoritmo que muitas vezes oscila e acaba prejudicando o alcance para com os clientes.
+Além disso, houve um aumento massivo no consumo de alimentos e produtos via aplicativo pelo advento da pandemia da Covid-19. Contudo mesmo após-pandemia o efeito do consumo via aplicativo não voltou às marcas anteriores, se tornando o meio mais usado por usuários da internet para consumir alimentos na atualidade. Consta na pesquisa disponível no site da Agência Brasil que “Para o período pós-pandemia, a pesquisa indica possível queda desse hábito entre os brasileiros, mas, quando considerados os que pretendem continuar com esse hábito diário, o percentual cai de 22,1% para 20%. A estimativa de 57,8% das pessoas ouvidas é manter a prática.” VALENTE, Jonas. Segue em anexo um gráfico discriminando a relação de consumo online no Brasil no pico Pandêmico e Pós-Pandemia.
+
+![Gráfico de consulto](img/consumo.png)
+
+Diante disso se torna necessário desenvolver uma aplicação web para buscar e filtrar as experiências dos usuários que frequentam restaurantes e lanchonetes de forma mais interativa, um lugar onde se possa criar amizades e realizar encontros gastronômicos, através de avaliações, comentários e indicações das pessoas que já estiveram em tais estabelecimentos, facilitando ao usuário a realização de uma escolha plausível com base em seus interesses e relatos de outros usuários da rede. 
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Este projeto visa dirimir a falta e/ou a filtragem de informação para os perfis da rede na busca por restaurantes, pois os meios já existentes não são suficientes ou funcionam de forma individual – redes sociais, propagandas – para demonstrar as experiências vivenciadas por outros consumidores. Um lugar onde o usuário consiga se relacionar através de uma rede interacional com outros a partir da criação de perfis, postagens, “stories” com o objetivo de ser mais do que somente uma ferramenta de recomendação, mas um lugar de interação social.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O foco de atuação deste trabalho é a criação de uma aplicação web que apresenta, segundo informações já disponibilizadas pelo usuário, os restaurantes que seguem as características compartilhadas, a quantidade de avaliações daquele local assim como comentários e fotos dos consumidores, facilitando a escolha dentro dos requisitos pesquisados.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Como objetivos específicos, podemos ressaltar:
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+> - Fornecer funcionalidades que permitam filtrar informações chaves relativas a busca por restaurantes;
+> - Interagir com outros usuários, através de comentários, buscando informações e dicas sobre aquele estabelecimento;
+> - Liberdade para avaliar, comentar e interagir dentro do aplicativo;
+> - Postagem de Fotos e Vídeos, por meio de publicações no feed ou no stories da rede. 
+> - Permitir a criação de canais personalizados por usuário com tópicos de interesse individual.
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A qualidade percebida é definida por julgamentos do consumidor sobre a excelência ou superioridade global do produto (ANDERSON et al., 1994; BEI; CHIAO, 2001). Para prestadores de serviços, a qualidade do produto e ou serviço pode ser definida como a avaliação que o cliente faz do serviço, durante ou após o término do processo. Esta avaliação se dá através da comparação entre o que o cliente esperava e o que ele percebeu do serviço prestado (GIANESI; CORRÊA, 1994).
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Seguindo então o pensamento de Gianesi Corrêa, o desenvolvimento desta ferramenta web, se baseia na criação de um espaço aberto para comparações e recomendações entre usuários a partir das expectativas destes. Compartilhando suas trajetórias desde buscar em nossa plataforma até o momento de degustação  das diversas culinárias presentes na cidade selecionada pelo usuário com o intuito diminuir a desinformação e facilitar a divulgação de estabelecimentos. 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+É inegável que a ferramenta de busca do Google tem facilitado cada vez mais o encontro de informações relevantes, todavia houve também um aumento no número de “fake news” a partir da criação de perfis falsos que podem passar de forma despercebida com usuários reais da rede. Tais perfis, criados por ferramentas de construção de engajamento falso, criam perfis e reviews que não condizem com a realidade. Quem mais sofre com tal falta de informações confiáveis é o consumidor que não consegue encontrar uma fonte relevante e condizente com a realidade. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Sendo assim, estabeleceu-se como público-alvo desta solução os homens e as mulheres entre 16 e 35 anos que encontram dificuldades na busca por espaços gastronômicos na sua região, com informações reais de outros usuários. 
