@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`Eixo 1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Davi Haniel Reis Silva
+* Edmilson Gomes de Sousa Neto
+* Luiza Carolina Duarte Ferreira
+* Gabriel Matozinho Pereira
+* Fábio João da Silva
+* Lucas Simoes Ribeiro
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
