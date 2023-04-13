@@ -30,10 +30,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos Funcionais
 
 |ID    | Requisito | Descrição do Requisito | Prioridade |
-|------|-----------------------------------------|----|
+|------|-----------|------------------------|------------|
 |RF-01|Manter cadastro dos restaurantes|O site deve apresentar na página principal os restaurantes cadastrados para a realização de buscas. Esse cadastro permitirá a utilização de imagens para uma visualização dinâmica.|<font color=\"red\">ALTA</font>|
-|RF-02| Manter cardápio e preços | O site deve apresentar cardápio (disponibilizado pelo restaurante) com valores atualizados. | <font color=\"red\">ALTA</font>|
-|RF-03| Buscar restaurante | Na ferramenta de busca o usuário poderá fazer a busca pelo prato desejado e será apresentado a lista dos restaurantes com a opção desejada |<font color=\"yellow">MÉDIA</font>|
+|RF-02|Manter cardápio e preços|O site deve apresentar cardápio (disponibilizado pelo restaurante) com valores atualizados.|<font color=\"red\">ALTA</font>|
+|RF-03|Buscar restaurante|Na ferramenta de busca o usuário poderá fazer a busca pelo prato desejado e será apresentado a lista dos restaurantes com a opção desejada|<font color=\"yellow">MÉDIA</font>|
 |RF-04|Avaliações|O site deve permitir que o usuário avalie os estabelecimentos cadastrados, inserindo nota e comentário após sua experiência.|<font color=\"yellow">MÉDIA</font>|
 |RF-05|Localização|O site deve oferecer uma funcionalidade de busca de restaurantes considerando a localização do usuário.|<font color=\"yellow">MÉDIA</font>|
 |RF-06|Contato|O site deve permitir visualizar as informações de contatos do mantenedor do site|<font color=\"yellow">MÉDIA</font>|
@@ -43,7 +43,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos não Funcionais
 
 |ID     | Requisito  | Descrição do Requisito | Prioridade |
-|-------|-------------------------|----|
+|-------|------------|------------------------|------------|
 |RNF-01|Ambiente|O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku)|<font color=\"red\">ALTA</font>| 
 |RNF-02|Layout|O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.|<font color=\"red\">ALTA</font>|
 |RNF-03|Compatibilidade|O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)|<font color=\"red\">ALTA</font>|

@@ -23,11 +23,11 @@ O foco de atuação deste trabalho é a criação de uma aplicação web que apr
 
 Como objetivos específicos, podemos ressaltar:
  
-> - Fornecer funcionalidades que permitam filtrar informações chaves relativas a busca por restaurantes;
-> - Interagir com outros usuários, através de comentários, buscando informações e dicas sobre aquele estabelecimento;
-> - Liberdade para avaliar, comentar e interagir dentro do aplicativo;
-> - Postagem de Fotos e Vídeos, por meio de publicações no feed ou no stories da rede. 
-> - Permitir a criação de canais personalizados por usuário com tópicos de interesse individual.
+- Fornecer funcionalidades que permitam filtrar informações chaves relativas a busca por restaurantes;
+- Interagir com outros usuários, através de comentários, buscando informações e dicas sobre aquele estabelecimento;
+- Liberdade para avaliar, comentar e interagir dentro do aplicativo;
+- Postagem de Fotos e Vídeos, por meio de publicações no feed ou no stories da rede. 
+- Permitir a criação de canais personalizados por usuário com tópicos de interesse individual.
 
 
 ## Justificativa
